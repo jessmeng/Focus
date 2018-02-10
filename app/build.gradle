@@ -27,5 +27,5 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 
     //Dependencies
-    compile 'com.microsoft.projectoxford:vision:1.0.394'
+    implementation 'com.microsoft.projectoxford:vision:1.0.394'
 }
