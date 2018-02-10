@@ -2,4 +2,7 @@
     <string name="app_name">Focus</string>
     <string name="Title">focus</string>
     <string name="motto">add events with a click</string>
+    <string name="text">camera</string>
+    <string name="capture">CAPTURE</string>
+    <string name="CAPTURE">CAPTURE</string>
 </resources>
