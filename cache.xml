@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_934cf0caca1c049b40d9c0a2617bf1ea81b589b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_7dfb99a3cdf217e446b38ab7fc5d1957ff7ffd05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_060dd9357962c9b744d9d5d4d35593ac8b9536d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_49fe2046717da2ce1f0d51fa96c404512acbb0bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_1e85efda3a811f07a7b6c2119351771cdc189588.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_380f35c90309423908a735773b3bf70b01cc999c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_441829576c0a691e7c7770d866c9f8e9ccb48975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_131de84278e10582e79676fa6a1c9dd697afbe69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_2429402e6a2fc4aeca8211f44af0190fcdf7bf1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_241c904b0929c9e55b2a395c4bd85e5f98e559d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_2673131a3aaf40daa4d5cced9bf248cafad21854.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/vision/1.0.394/jars/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4be1d7736d7a4a966682e109acddef2fc0554c6f">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/commons-io-2.4_929a5be636702a7b3f2373cf88da3167807548de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/vision/1.0.394/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8593000b32551d91ee901c2bc2b162ff05efc2">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/com.microsoft.projectoxford-vision-1.0.394_64bffdf2a870a0486576eed62fbd6e26d5f26a5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_47ccb72a2380c5e947233125260268b0cc23d73b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f730c64b11fd66fb8972b38648edd9ff6b46b398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/gson-2.3.1_91f4cfa312be1ea8f91a6036a574b98a1dbb1166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.4/16313e02a793435009f1e458fa4af5d879f6fb11/commons-lang-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16313e02a793435009f1e458fa4af5d879f6fb11">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/commons-lang-2.4_971dab5a1b0dd97a9f0f314a931b98a38c181a25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_104001b5e87f36f8d9e8f029460be44952a98f87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/Alvin/Documents/GitHub/Cognitive-Vision-Android/Sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_f2ab9dd5af8811d3899671c55a9612e3018a4ffa.jar" />
+    </item>
+
+</items>
