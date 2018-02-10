@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Focus</string>
     <string name="Title">focus</string>
+    <string name="motto">add events with a click</string>
 </resources>
