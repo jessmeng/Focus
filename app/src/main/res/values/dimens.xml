@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="titlesize">80</dimen>
+    <dimen name="titlesize">80dp</dimen>
 </resources>
